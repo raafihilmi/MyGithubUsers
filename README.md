@@ -1,6 +1,6 @@
 # MyGithubUsers
 
-Welcome to MyGithubUsers! This is my second Android application project, developed to display information about GitHub users. The application was completed as part of a certification program on Dicoding, and the certification can be viewed [here](https://www.dicoding.com/certificates/QLZ9R4GY9P5D).
+Welcome to MyGithubUsers! This is my second Android application project, developed to display information about GitHub users. This application follows the MVVM design pattern, which helps to separate the concerns of the application into different layers and promotes a cleaner, more maintainable codebase. The application was completed as part of a certification program on Dicoding, and the certification can be viewed [here](https://www.dicoding.com/certificates/QLZ9R4GY9P5D). 
 
 ## Table of Contents
 
