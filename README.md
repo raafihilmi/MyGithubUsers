@@ -9,7 +9,6 @@ Welcome to MyGithubUsers! This is my second Android application project, develop
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Certification](#certification)
 - [Contact](#contact)
 
 ## Features
