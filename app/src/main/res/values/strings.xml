@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyGithubUsers</string>
+    <string name="searchbar_hint">Cari user github</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="tabs">tabs</string>
+    <string name="username">Username</string>
+    <string name="favorit">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favoriteaction">favoriteaction</string>
+    <string name="settingaction">settingaction</string>
+</resources>
