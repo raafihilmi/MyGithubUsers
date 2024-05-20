@@ -46,7 +46,7 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 Distributed under the MIT License. See [LICENSE](https://github.com/raafihilmi/MyGithubUsers/blob/main/LICENSE) for more information.
 
-Contact
+## Contact
 Raafi Hilmi - [Email](mailto:raafihilmi90@gmail.com) - [LinkedIn](https://www.linkedin.com/in/raafi-hilmi)
 
 Project Link: https://github.com/raafihilmi/MyGithubUsers.
