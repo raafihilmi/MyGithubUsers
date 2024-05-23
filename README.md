@@ -5,8 +5,10 @@ Welcome to MyGithubUsers! This is my second Android application project, develop
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Architecture](#architecture)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -18,6 +20,13 @@ Welcome to MyGithubUsers! This is my second Android application project, develop
 - **Search Functionality**: Search for GitHub users by username.
 - **Favorite Users**: Mark and manage your favorite GitHub users.
 
+## Screenshots
+<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/b6aee011-37f7-4bdb-b548-69f7bb346f55" alt="splashscreen" />
+<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/a1400042-22a2-46ee-b7b9-80b5af1d2b73" alt="home" />
+<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/1dab55b2-39f3-403d-bab1-bd472a8466f2" alt="detail" />
+<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/21c8e6eb-e584-4a26-9847-137a0384c2f7" alt="favorite" />
+<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/e55f4b6c-3dbc-469c-a4df-fd1d616a98297" alt="darkmode" />
+
 ## Installation
 
 To get a local copy up and running, follow these simple steps:
@@ -25,6 +34,9 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repo**
    ```sh
    git clone https://github.com/raafihilmi/MyGithubUsers.git
+2. Open the project in Android Studio
+3. Build the project: Let Android Studio download and install the required dependencies.
+4. Run the app: Connect your Android device or use an emulator to run the app.
 
 ## Usage
 
@@ -33,6 +45,10 @@ To get a local copy up and running, follow these simple steps:
 3. View details: Tap on any user to view more information
 4. Search: Use the search bar to find specific GitHub users.
 5. Favorite: In the detail screen, tap the star icon to add users to your favorites.
+
+## Architecture
+**MVVM (Model-View-ViewModel) Design Pattern**
+The application follows the MVVM design pattern, which helps to separate the concerns of the application into different layers and promotes a cleaner, more maintainable codebase.
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
